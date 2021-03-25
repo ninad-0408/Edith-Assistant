@@ -7,9 +7,9 @@ import Speak as aas
 import Resource as ar
 
 # Global Variables
-assistant_Name = ''
-owner_Name = ''
-signature = ''
+assistant_Name = 'Jarvis'
+owner_Name = 'Ninad'
+signature = 'Sir'
 # End
 
 def firstWelcome():
