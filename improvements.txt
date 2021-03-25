@@ -1,0 +1,16 @@
+1) To add reminder system:
+    a) Write tasks in file
+    b) Able to create a todo file with tomorrow's date 
+    c) Able to mark task as done
+    d) Make a all time todo file
+    e) Recall me about yesterdays undone tasks
+
+2) To add my file creation for codeforces contests:
+    a) Create a folder according to name
+    b) Open the borwser with contest page
+    c) Open vscode with the folder mentioned
+    
+3) Make different files of Edith
+
+4) Errors:
+    a) Recognization error when no one is speaking
