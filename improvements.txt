@@ -10,7 +10,21 @@
     b) Open the borwser with contest page
     c) Open vscode with the folder mentioned
     
-3) Make different files of Edith
+3) Make different files of Edith - Done
 
 4) Errors:
     a) Recognization error when no one is speaking
+    b) Remove extra spaces in audio
+    c) Shutting down when an aplication is opened
+
+5) Searching:
+    a) On google - Done
+    b) On youtube - Done
+
+6) Name recognization i.e. not answering when not called by name
+
+7) Assistant personalization
+    a) Improvment in wishes
+    b) Quitting statements
+    c) Belonging status
+    d) Name of Owner and Assistant

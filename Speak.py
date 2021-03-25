@@ -3,7 +3,7 @@ import speech_recognition as sr
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
-engine.setProperty('voice', voices[0].id)
+engine.setProperty('voice', voices[1].id)
 
 def speak(audio):
     engine.say(audio)
@@ -23,9 +23,8 @@ def takeCommand():
         print(f"User Said: {query}\n")
 
     except Exception as e:
-        # print(e)
         speak("Say that again please...")
-        return 'none'
+        return 'None'
 
     return query
 
