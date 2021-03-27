@@ -27,4 +27,4 @@
     a) Improvment in wishes
     b) Quitting statements
     c) Belonging status
-    d) Name of Owner and Assistant
+    d) Name of Owner and Assistant - Done
